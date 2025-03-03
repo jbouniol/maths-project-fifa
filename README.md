@@ -4,6 +4,11 @@
 
 Ce projet applique des concepts mathématiques de réduction dimensionnelle (ACP/PCA) sur des données de joueurs de football européens pour analyser leurs performances.
 
+### Data
+
+### Data
+[Lien de téléchargement](https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset)
+
 ### Objectifs
 - Explorer et préparer les données de la European Soccer Database
 - Appliquer l'Analyse en Composantes Principales (ACP)
